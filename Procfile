@@ -1,1 +1,1 @@
-web: gunicorn cccvccxxfcc:app --timeout 3333
+web: python3 app.py
