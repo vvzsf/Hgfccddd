@@ -1,1 +1,1 @@
-web: python3 app.py
+web: gunicorn your_app:app --timeout 3333
