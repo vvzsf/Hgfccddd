@@ -1,1 +1,1 @@
-web: gunicorn your_app:app --timeout 3333
+web: gunicorn cccvccxxfcc:app --timeout 3333
