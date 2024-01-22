@@ -1,3 +1,5 @@
+from pyrogram import Client, filters
+
 # Initialize your Pyrogram client
 app = Client("my_app")
 
